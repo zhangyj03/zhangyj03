@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently an undergraduate in the School of Artificial Intelligence, Nanjing University(NJUAI).
+- 👨‍🎓 I’m currently an undergraduate in the School of Artificial Intelligence, Nanjing University(NJUAI).
+- ✍ I'm currently learning how to be a great AI researcher and algorithm engineer.
+- 📫 How to reach me: ggzhangyunji@gmail.com
